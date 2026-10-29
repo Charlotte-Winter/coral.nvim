@@ -4,6 +4,6 @@ if vim.fn.exists("syntax_on") == 1 then
 end
 
 vim.o.termguicolors = true
-vim.g.color_name = "coal"
+vim.g.color_name = "coral"
 
 requre("coral").setup()
