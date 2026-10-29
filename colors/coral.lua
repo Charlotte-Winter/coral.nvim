@@ -6,4 +6,4 @@ end
 vim.o.termguicolors = true
 vim.g.color_name = "coral"
 
-requre("coral").setup()
+require("coral.init").setup()
