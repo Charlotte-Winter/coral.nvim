@@ -5,7 +5,7 @@ local palette = {
   keyword = "#881111",
   string = "#2d6a4f",
   line_nr = "#a0a0a0",
-  cursor = "#c7c7c7
+  cursor = "#c7c7c7",
 }
 
 return palette
