@@ -1,5 +1,5 @@
 local palette = {
-  bg = "#ededed",
+  bg = "#ffffff",
   fg = "#1c1c1c",
   comment = "#777777",
   keyword = "#881111",
