@@ -1,6 +1,6 @@
 local palette = {
-  bg = "#1c1c1c",
-  fg = "#ededed",
+  bg = "#ffffff",
+  fg = "#000000",
   comment = "#777777",
   keyword = "#881111",
   string = "#2d6a4f",
