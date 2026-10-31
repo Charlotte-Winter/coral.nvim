@@ -16,7 +16,7 @@ local palette = {
   func = "#0066cc",
   variable = "#111111",
   constant = "#800080",
-  type = "#0077aa",
+  type = "#f7c3f0",
   operator = "#444444",
   special = "#445500",
 
