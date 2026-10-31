@@ -13,7 +13,7 @@ local palette = {
   -- syntax highlighting
   keyword = "#881111",
   string = "#2d6a4f",
-  func = "#0066cc",
+  func = "#f7c3f0",
   variable = "#111111",
   constant = "#800080",
   type = "#f7c3f0",
