@@ -2,7 +2,7 @@ local palette = {
   -- basic & ui
   bg = "#919191",
   fg = "#000000",
-  comment = "#777777",
+  comment = "#d1b4cd",
   cursor = "#c7c7c7",
   cursor_line = "#f4f4f4",
   line_nr = "#a0a0a0",
