@@ -11,7 +11,7 @@ local palette = {
   menu_bg = "#eeeeee",
 
   -- syntax highlighting
-  keyword = "#6fb3e3",
+  keyword = "#2389d4",
   string = "#2d6a4f",
   func = "#00c3f0",
   variable = "#111111",
