@@ -4,19 +4,19 @@ local palette = {
   fg = "#000000",
   comment = "#8f8f8f",
   cursor = "#c7c7c7",
-  cursor_line = "#f4f4f4",
+  --  cursor_line = "#f4f4f4",
   line_nr = "#a0a0a0",
   visual = "#d0e0ff",
   border = "#cccccc",
   menu_bg = "#eeeee",
 
   -- syntax highlighting
-  keyword = "#ffb3f5",
+  keyword = "#ff00f5",
   string = "#2d6a4f",
-  func = "#f7c3f0",
+  func = "#00c3f0",
   variable = "#111111",
   constant = "#800080",
-  type = "#f7c3f0",
+  type = "#f7c300",
   operator = "#444444",
   special = "#445500",
 
