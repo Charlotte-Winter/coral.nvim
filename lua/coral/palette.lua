@@ -2,13 +2,13 @@ local palette = {
   -- basic & ui
   bg = "#dbdbdb",
   fg = "#000000",
-  comment = "#8f8f8f",
+  comment = "#a8a8a8",
   cursor = "#c7c7c7",
   --  cursor_line = "#f4f4f4",
   line_nr = "#a0a0a0",
   visual = "#d0e0ff",
   border = "#cccccc",
-  menu_bg = "#eeeee",
+  menu_bg = "#eeeeee",
 
   -- syntax highlighting
   keyword = "#6fb3e3",
