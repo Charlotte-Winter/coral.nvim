@@ -21,7 +21,7 @@ local palette = {
   special = "#445500",
 
   -- diagnostics & git
-  error = "#ffb3f5",
+  error = "#0f5300",
   warning = "#ff8800",
   info = "#0066ff",
   hint = "#666666",
