@@ -1,6 +1,6 @@
 local palette = {
   -- basic & ui
-  bg = "#919191",
+  bg = "#dbdbdb",
   fg = "#000000",
   comment = "#d1b4cd",
   cursor = "#c7c7c7",
