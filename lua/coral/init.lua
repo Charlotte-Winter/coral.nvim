@@ -11,6 +11,7 @@ function M.setup()
     Comment = { fg = colors.comment, italic = true },
     CursorLine = { bg = colors.cursor },
     LineNr = { fg = colors.line_nr },
+    Menu_BG = { bg = colors.menu_bg },
 
     -- syntax & highlighting
     Keyword = { fg = colors.keyword, bold = true },
