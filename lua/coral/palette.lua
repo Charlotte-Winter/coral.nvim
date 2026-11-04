@@ -1,7 +1,7 @@
 local palette = {
 	-- basic & ui
-	bg = "#dbdbdb", --#dbdbdb
-	fg = "#000000",
+	bg = "#666666", --#dbdbdb
+	fg = "#ededed",
 	comment = "#666666", --#a0a0a0
 	cursor = "#c7c7c7",
 	--  cursor_line = "#f4f4f4",
