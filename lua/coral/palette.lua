@@ -10,14 +10,14 @@ local palette = {
 	border = "#cccccc",
 
 	-- syntax highlighting
-	keyword = "#2389d4",
-	string = "#2d6a4f",
-	func = "#00c3f0",
-	variable = "#33ffff",
-	constant = "#800080",
-	type = "#f7c300",
-	operator = "#f985ff",
-	special = "#f900ff",
+	keyword = "#9785ff", --#2389d4
+	string = "#85b4ff",
+	func = "#85f5ff",
+	variable = "#85ffb0",
+	constant = "#b8ff85",
+	type = "#f9ff85",
+	operator = "#ffc685",
+	special = "#ff8585",
 
 	-- diagnostics & git
 	error = "#0f5300",
