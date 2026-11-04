@@ -8,7 +8,6 @@ local palette = {
 	line_nr = "#a0a0a0",
 	visual = "#d0e0ff",
 	border = "#cccccc",
-	menu_bg = "#f985ff",
 
 	-- syntax highlighting
 	keyword = "#2389d4",
@@ -18,13 +17,13 @@ local palette = {
 	constant = "#800080",
 	type = "#f7c300",
 	operator = "#f985ff",
-	special = "#445500",
+	special = "#f985ff",
 
 	-- diagnostics & git
 	error = "#0f5300",
 	warning = "#ff8800",
 	info = "#0066ff",
-	hint = "#666666",
+	hint = "#6666ff",
 	git_add = "#28a745",
 	git_change = "#ffc107",
 	git_delete = "#dc3545",
