@@ -1,7 +1,7 @@
 local palette = {
 	-- basic & ui
 	bg = "#dbdbdb", --#dbdbdb
-	fg = "#f985ff",
+	fg = "#000000",
 	comment = "#666666", --#a0a0a0
 	cursor = "#c7c7c7",
 	--  cursor_line = "#f4f4f4",
@@ -14,7 +14,7 @@ local palette = {
 	keyword = "#2389d4",
 	string = "#2d6a4f",
 	func = "#00c3f0",
-	variable = "#111111",
+	variable = "#f985ff",
 	constant = "#800080",
 	type = "#f7c300",
 	operator = "#444444",
