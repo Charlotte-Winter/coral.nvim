@@ -17,7 +17,7 @@ local palette = {
 	variable = "#33ffff",
 	constant = "#800080",
 	type = "#f7c300",
-	operator = "#444444",
+	operator = "#f985ff",
 	special = "#445500",
 
 	-- diagnostics & git
