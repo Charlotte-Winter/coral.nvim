@@ -7,7 +7,7 @@ local palette = {
 	--  cursor_line = "#f4f4f4",
 	line_nr = "#a0a0a0",
 	visual = "#d0e0ff",
-	border = "#cccccc",
+	border = "#cccc00",
 
 	-- syntax highlighting
 	keyword = "#9785ff", --#2389d4
