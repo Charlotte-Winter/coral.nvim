@@ -8,13 +8,13 @@ local palette = {
 	line_nr = "#a0a0a0",
 	visual = "#d0e0ff",
 	border = "#cccccc",
-	menu_bg = "#eeeeee",
+	menu_bg = "#f985ff",
 
 	-- syntax highlighting
 	keyword = "#2389d4",
 	string = "#2d6a4f",
 	func = "#00c3f0",
-	variable = "#f985ff",
+	variable = "#33ffff",
 	constant = "#800080",
 	type = "#f7c300",
 	operator = "#444444",
